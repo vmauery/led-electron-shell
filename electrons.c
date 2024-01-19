@@ -1,3 +1,6 @@
+// Copyright © 2014 Vernon Mauery <vernon@mauery.com>
+// SPDX-License-Identifier: GPL-2.0-only
+
 #include <stdint.h>
 #include <string.h>
 #include <stdlib.h>
